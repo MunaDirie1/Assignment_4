@@ -1,16 +1,21 @@
 "# Assignment_4" 
 
 Description:
-This application is a word search game where a word is randomly selected from a list.
-Players must guess the word, using their past guesses as hints to arrive at the final answer.
+This application is a console-based word guessing game where a random 5-letter
+word is chosen from a list (words.txt).
+Players have 6 attempts to guess the word, using their past guesses as hints to arrive at the final answer.
+After each guess, the game provides feedback:
+- Letters in the correct position
+- Letters in the wrong position
+- Incorrect letters
 
 Instructions:
-Before running this app please be sure to run the following commands so that it works:
-1. Clone this with git clone
-2. Open a terminal in the cloned folder
-3. Install dependencies with pip install -r requirements.txt
-4. Run the server with python manage.py runserver
-5. See if it works at http://localhost:8000
+How to Run the Application:
+------------------------------------
+1. Install Python 3.10+ on your computer.
+2. Open a terminal inside the project folder.
+3. Run the game with:
+   python main.py
 
 
 GitHub Repository Link: https://github.com/MunaDirie1/Assignment_4.git (change to public before submission)
