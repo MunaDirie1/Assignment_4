@@ -1,4 +1,4 @@
-"# Assignment_4" 
+Assignment_4
 
 Description:
 This application is a console-based word guessing game where a random 5-letter
