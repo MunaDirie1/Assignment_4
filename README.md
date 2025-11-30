@@ -18,6 +18,6 @@ How to Run the Application:
    python main.py
 
 
-GitHub Repository Link: https://github.com/MunaDirie1/Assignment_4.git (change to public before submission)
+GitHub Repository Link: https://github.com/MunaDirie1/Assignment_4.git
 
 Docker Hub Repository Link:
