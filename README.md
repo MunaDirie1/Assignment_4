@@ -20,4 +20,13 @@ How to Run the Application:
 
 GitHub Repository Link: https://github.com/MunaDirie1/Assignment_4.git
 
-Docker Hub Repository Link:
+Docker Hub Repository Link:https://hub.docker.com/r/diri0066/diri0066_net2008_a4
+
+Instructions:
+How to Run Using Docker:
+------------------------------------
+1. Pull the Docker image:
+   docker pull diri0066/diri0066_net2008_a4:latest
+
+2. Run the game interactively:
+   docker run -it --rm diri0066/diri0066_net2008_a4:latest
