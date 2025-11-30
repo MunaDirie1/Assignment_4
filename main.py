@@ -32,3 +32,4 @@ while gameData.turn_counter < gameData.max_turns:
 # Game over
 if gameData.turn_counter >= gameData.max_turns:
     print("\nGame over! The word was:", gameData.word)
+    gameData.turn_counter = 0
